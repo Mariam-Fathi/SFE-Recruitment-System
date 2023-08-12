@@ -1,7 +1,7 @@
 <div>
   <h1>
     SFE-Recruitment-System 
-    <img src="<img src=https://github.com/RamziMuhammad/SFE-Recruitment-System/blob/main/statics/assets/img/SFE-RS.png" width="40px" />
+    <img src="<img src=https://github.com/Mariam-Fathi/SFE-Recruitment-System/blob/main/statics/assets/img/SFE-RS.png" width="40px" />
   </h1>
 </div>
 
@@ -14,13 +14,13 @@ With the use of machine learning models written in Python and used by our web ap
 - Neuroticism
 
 <div align="center">
-  <img src="https://github.com/RamziMuhammad/SFE-Recruitment-System/blob/main/statics/assets/img/SFE-RS-Home-Page.png" style="width:800px;"/>
+  <img src="https://github.com/Mariam-Fathi/SFE-Recruitment-System/blob/main/statics/assets/img/SFE-RS-Home-Page.png" style="width:800px;"/>
 </div>
 
 ## Our App Architecture
 
 <div align="center">
-  <img src="https://github.com/RamziMuhammad/SFE-Recruitment-System/blob/main/statics/assets/img/Web-App-Architecture.png" style="width:800px;"/>
+  <img src="https://github.com/Mariam-Fathi/SFE-Recruitment-System/blob/main/statics/assets/img/Web-App-Architecture.png" style="width:800px;"/>
 </div>
 
 ## Requirement
